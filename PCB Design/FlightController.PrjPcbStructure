@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=General.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=General.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=General.SchDoc|FileName=MPU6050.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=General.SchDoc|FileName=NRF24L01.SchDoc|SheetNumber=3
